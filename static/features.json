@@ -1,5 +1,10 @@
 [
   {
+    "title": "Charming Nara",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui, atque harum. Minima adipisci ab laudantium?",
+    "image": "/sample/nara.jpg"
+  },
+  {
     "title": "Gorgeous Nana",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui, atque harum. Minima adipisci ab laudantium?",
     "image": "/sample/nana.jpg"
